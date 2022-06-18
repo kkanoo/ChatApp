@@ -16,9 +16,16 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 # ChatApp
 
-# Feature
+Messenger clone build using dart, flutter and firebase.
 
-Sign in using Google
+# Features
+
+Sign in using Google.
+
+Uses firebase authentication.
+
 One to one chat with registered users.
-Can change display picture and display name
+
+Can change display picture and display name.
+
 Realtime messaging.
